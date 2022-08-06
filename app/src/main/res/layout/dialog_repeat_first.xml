@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <RadioGroup
+        android:id="@+id/reapeatFirstRG"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginBottom="16dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <RadioButton
+            android:id="@+id/noRepeatRB"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:buttonTint="#1976D2"
+            android:text="Does not repeat"
+            android:textSize="18sp" />
+
+        <RadioButton
+            android:id="@+id/dayRepeatRB"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:buttonTint="#1976D2"
+            android:text="Every day"
+            android:textSize="18sp" />
+
+        <RadioButton
+            android:id="@+id/weekRepeatRB"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:buttonTint="#1976D2"
+            android:text="Every week"
+            android:textSize="18sp" />
+
+        <RadioButton
+            android:id="@+id/monthRepeatRB"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:buttonTint="#1976D2"
+            android:text="Every month"
+            android:textSize="18sp" />
+
+        <RadioButton
+            android:id="@+id/yearRepeatRB"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:buttonTint="#1976D2"
+            android:text="Every year"
+            android:textSize="18sp" />
+
+        <!--<RadioButton
+            android:id="@+id/customRepeatRB"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:buttonTint="#1976D2"
+            android:text="Custom"
+            android:textSize="18sp" />-->
+    </RadioGroup>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="350dp"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <RadioGroup
+        android:id="@+id/notifTimeRG"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginBottom="16dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <RadioButton
+            android:id="@+id/fiveMinRB"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:buttonTint="#1976D2"
+            android:text="5 minutes ago" />
+
+        <RadioButton
+            android:id="@+id/tenMinRB"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:buttonTint="#1976D2"
+            android:text="10 minutes ago" />
+
+        <RadioButton
+            android:id="@+id/fifMinRB"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:buttonTint="#1976D2"
+            android:text="15 minutes ago" />
+
+        <RadioButton
+            android:id="@+id/thirMinRB"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:buttonTint="#1976D2"
+            android:text="30 minutes ago" />
+
+        <RadioButton
+            android:id="@+id/hourMinRB"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:buttonTint="#1976D2"
+            android:text="1 hour ago" />
+
+        <RadioButton
+            android:id="@+id/twelveHourMinRB"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:buttonTint="#1976D2"
+            android:text="12 hour ago" />
+
+        <RadioButton
+            android:id="@+id/dayMinRB"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:buttonTint="#1976D2"
+            android:text="1 day ago" />
+    </RadioGroup>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

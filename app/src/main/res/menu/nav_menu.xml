@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/calNavM"
+        android:icon="@drawable/ic_baseline_calendar_today_24"
+        android:title="Calendar" />
+    <item
+        android:id="@+id/courseListNavM"
+        android:icon="@drawable/ic_baseline_layers_24"
+        android:title="Course List" />
+    <item
+        android:id="@+id/profileNavM"
+        android:icon="@drawable/ic_baseline_people_24"
+        android:title="Profile" />
+    <item
+        android:id="@+id/impvmtNavM"
+        android:title="Improvement" />
+    <item
+        android:id="@+id/lesRecordNavM"
+        android:title="Lesson Record" />
+    <item
+        android:id="@+id/resultNavM"
+        android:title="Result" />
+    <item
+        android:id="@+id/logOutNavM"
+        android:icon="@drawable/ic_baseline_report_problem_24"
+        android:title="LogOut" />
+
+</menu>

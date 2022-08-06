@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">StudyPlanner</string>
+
+    <string name="open">open</string>
+    <string name="close">close</string>
+
+    <string-array name="classes">
+        <item>Class</item>
+    </string-array>
+    <string-array name="lab">
+        <item>Lab</item>
+    </string-array>
+    <string-array name="cT">
+        <item>Class Test</item>
+        <item>Lab Test</item>
+    </string-array>
+    <string-array name="asgmtReport">
+        <item>Assignment</item>
+        <item>Lab Report</item>
+    </string-array>
+    <string-array name="examLFinal">
+        <item>Semester Final</item>
+        <item>Lab Final</item>
+    </string-array>
+</resources>

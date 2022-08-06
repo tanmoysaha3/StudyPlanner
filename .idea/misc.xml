@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/User/AndroidStudioProjects/StudyPlanner/app/src/main/res/layout/activity_add_course.xml" value="0.1" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/StudyPlanner/app/src/main/res/layout/activity_add_event.xml" value="0.1" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/StudyPlanner/app/src/main/res/layout/activity_base.xml" value="0.1" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/StudyPlanner/app/src/main/res/layout/activity_check_user.xml" value="0.11481481481481481" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/StudyPlanner/app/src/main/res/layout/activity_course_details.xml" value="0.11481481481481481" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/StudyPlanner/app/src/main/res/layout/activity_course_list.xml" value="0.11481481481481481" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/StudyPlanner/app/src/main/res/layout/activity_improvement.xml" value="0.11481481481481481" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/StudyPlanner/app/src/main/res/layout/activity_lesson_record.xml" value="0.11481481481481481" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/StudyPlanner/app/src/main/res/layout/activity_login.xml" value="0.11481481481481481" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/StudyPlanner/app/src/main/res/layout/activity_register.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/StudyPlanner/app/src/main/res/layout/activity_reminder_list.xml" value="0.11481481481481481" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/StudyPlanner/app/src/main/res/layout/activity_result_record.xml" value="0.11481481481481481" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/StudyPlanner/app/src/main/res/layout/activity_update_profile.xml" value="0.11481481481481481" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/StudyPlanner/app/src/main/res/layout/content_base.xml" value="0.1" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/StudyPlanner/app/src/main/res/layout/custom_edittext.xml" value="0.1" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/StudyPlanner/app/src/main/res/layout/dialog_lesson_record.xml" value="0.11481481481481481" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/StudyPlanner/app/src/main/res/layout/dialog_notification_time.xml" value="0.1" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/StudyPlanner/app/src/main/res/layout/dialog_repeat_first.xml" value="0.1" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/StudyPlanner/app/src/main/res/layout/dialog_result_record.xml" value="0.11481481481481481" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/StudyPlanner/app/src/main/res/layout/dialog_update_improvement.xml" value="0.11481481481481481" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/StudyPlanner/app/src/main/res/layout/list_item_course.xml" value="0.11481481481481481" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/StudyPlanner/app/src/main/res/layout/list_item_lesson.xml" value="0.11481481481481481" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/StudyPlanner/app/src/main/res/layout/list_item_reminder.xml" value="0.11481481481481481" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/StudyPlanner/app/src/main/res/layout/list_item_result.xml" value="0.11481481481481481" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/StudyPlanner/app/src/main/res/layout/list_item_topic.xml" value="0.11481481481481481" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/StudyPlanner/app/src/main/res/layout/nav_header.xml" value="0.1" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/StudyPlanner/app/src/main/res/menu/nav_menu.xml" value="0.1" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/StudyPlanner/app/src/main/res/xml/line_point_formatter_with_labels.xml" value="0.11481481481481481" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
